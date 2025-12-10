@@ -1,0 +1,2 @@
+This file uses the 'with' statement.
+It automatically handles file closing.
